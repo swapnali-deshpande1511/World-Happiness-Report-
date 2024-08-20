@@ -1,0 +1,132 @@
+,Rank,Year,Country,Region,Happiness Score,Economy (GDP per Capita),Family (Social Support),Health (Life Expectancy),Freedom (Life Choices),Trust (Government Corruption),Donations to Charity
+0,1,2022,Finland,Western Europe,7.804,1.888,1.585,0.535,0.772,0.535,0.126
+1,2,2022,Denmark,Western Europe,7.586,1.949,1.548,0.537,0.734,0.525,0.208
+2,3,2022,Iceland,Western Europe,7.53,1.926,1.62,0.559,0.738,0.187,0.25
+3,4,2022,Israel,Middle East and Northern Africa,7.473,1.833,1.521,0.577,0.569,0.158,0.124
+4,5,2022,Netherlands,Western Europe,7.403,1.942,1.488,0.545,0.672,0.394,0.251
+5,6,2022,Sweden,Western Europe,7.395,1.921,1.51,0.562,0.754,0.52,0.225
+6,7,2022,Norway,Western Europe,7.315,1.994,1.521,0.544,0.752,0.463,0.212
+7,8,2022,Switzerland,Western Europe,7.24,2.022,1.463,0.582,0.678,0.475,0.151
+8,9,2022,Luxembourg,Western Europe,7.228,2.2,1.357,0.549,0.71,0.418,0.149
+9,10,2022,New Zealand,Australia and New Zealand,7.123,1.842,1.544,0.513,0.672,0.471,0.23
+10,11,2022,Austria,Western Europe,7.097,1.927,1.382,0.535,0.63,0.31,0.191
+11,12,2022,Australia,Australia and New Zealand,7.095,1.899,1.497,0.532,0.677,0.31,0.242
+12,13,2022,Canada,North America,6.961,1.881,1.484,0.541,0.656,0.364,0.218
+13,14,2022,Ireland,Western Europe,6.911,2.152,1.425,0.539,0.656,0.409,0.186
+14,15,2022,United States,North America,6.894,1.98,1.46,0.39,0.557,0.172,0.21
+15,16,2022,Germany,Western Europe,6.892,1.919,1.401,0.539,0.618,0.365,0.153
+16,17,2022,Belgium,Western Europe,6.859,1.907,1.449,0.528,0.59,0.273,0.137
+18,19,2022,United Kingdom,Western Europe,6.796,1.857,1.366,0.511,0.626,0.34,0.272
+19,20,2022,Lithuania,Central and Eastern Europe,6.763,1.808,1.511,0.432,0.487,0.089,0.059
+20,21,2022,France,Western Europe,6.661,1.856,1.433,0.566,0.582,0.27,0.083
+21,22,2022,Slovenia,Central and Eastern Europe,6.65,1.815,1.539,0.532,0.707,0.113,0.144
+22,23,2022,Costa Rica,Latin America and Caribbean,6.609,1.587,1.34,0.503,0.683,0.116,0.099
+23,24,2022,Romania,Central and Eastern Europe,6.589,1.726,1.28,0.423,0.631,0.0,0.044
+24,25,2022,Singapore,Southeastern Asia,6.587,2.168,1.354,0.607,0.66,0.561,0.17
+25,26,2022,United Arab Emirates,Middle East and Northern Africa,6.571,2.015,1.223,0.401,0.745,0.247,0.188
+27,28,2022,Uruguay,Latin America and Caribbean,6.494,1.617,1.445,0.435,0.683,0.254,0.102
+28,29,2022,Slovakia,Central and Eastern Europe,6.469,1.731,1.544,0.472,0.494,0.022,0.128
+29,30,2022,Saudi Arabia,Middle East and Northern Africa,6.463,1.861,1.37,0.351,0.682,0.17,0.093
+30,31,2022,Estonia,Central and Eastern Europe,6.455,1.798,1.526,0.494,0.728,0.372,0.153
+31,32,2022,Spain,Western Europe,6.436,1.798,1.491,0.567,0.533,0.157,0.101
+32,33,2022,Italy,Western Europe,6.405,1.832,1.365,0.559,0.438,0.063,0.097
+33,34,2022,Kosovo,Central and Eastern Europe,6.368,1.374,1.269,0.372,0.639,0.045,0.275
+34,35,2022,Chile,Latin America and Caribbean,6.334,1.645,1.384,0.511,0.546,0.076,0.131
+35,36,2022,Mexico,Latin America and Caribbean,6.33,1.55,1.169,0.389,0.632,0.115,0.086
+36,37,2022,Malta,Western Europe,6.3,1.841,1.468,0.547,0.671,0.143,0.2
+37,38,2022,Panama,Latin America and Caribbean,6.265,1.714,1.402,0.475,0.63,0.036,0.065
+38,39,2022,Poland,Central and Eastern Europe,6.26,1.767,1.474,0.477,0.511,0.139,0.12
+39,40,2022,Nicaragua,Latin America and Caribbean,6.259,1.109,1.292,0.385,0.66,0.218,0.148
+40,41,2022,Latvia,Central and Eastern Europe,6.213,1.737,1.505,0.405,0.58,0.071,0.107
+41,42,2022,Bahrain,Middle East and Northern Africa,6.173,1.883,1.269,0.389,0.748,0.138,0.199
+42,43,2022,Guatemala,Latin America and Caribbean,6.15,1.287,1.188,0.31,0.631,0.066,0.106
+43,44,2022,Kazakhstan,Central and Eastern Europe,6.144,1.664,1.491,0.389,0.628,0.149,0.136
+44,45,2022,Serbia,Central and Eastern Europe,6.144,1.552,1.343,0.424,0.617,0.081,0.246
+45,46,2022,Cyprus,Western Europe,6.13,1.824,1.224,0.58,0.455,0.05,0.104
+46,47,2022,Japan,Eastern Asia,6.129,1.825,1.396,0.622,0.556,0.207,0.009
+47,48,2022,Croatia,Central and Eastern Europe,6.125,1.727,1.455,0.475,0.5,0.003,0.087
+48,49,2022,Brazil,Latin America and Caribbean,6.125,1.454,1.25,0.387,0.558,0.137,0.131
+49,50,2022,El Salvador,Latin America and Caribbean,6.122,1.278,1.044,0.383,0.713,0.222,0.079
+50,51,2022,Hungary,Central and Eastern Europe,6.041,1.754,1.519,0.435,0.501,0.065,0.105
+51,52,2022,Argentina,Latin America and Caribbean,6.024,1.59,1.388,0.427,0.587,0.082,0.088
+52,53,2022,Honduras,Latin America and Caribbean,6.023,1.115,1.072,0.341,0.613,0.062,0.189
+53,54,2022,Uzbekistan,Central and Eastern Europe,6.014,1.227,1.347,0.375,0.74,0.208,0.26
+54,55,2022,Malaysia,Southeastern Asia,6.012,1.665,1.155,0.385,0.659,0.122,0.222
+55,56,2022,Portugal,Western Europe,5.968,1.758,1.356,0.537,0.693,0.037,0.031
+56,57,2022,South Korea,Eastern Asia,5.951,1.853,1.188,0.603,0.446,0.163,0.112
+57,58,2022,Greece,Western Europe,5.931,1.708,1.247,0.535,0.248,0.097,0.008
+58,59,2022,Mauritius,Sub-Saharan Africa,5.902,1.589,1.382,0.336,0.574,0.11,0.121
+59,60,2022,Thailand,Southeastern Asia,5.843,1.515,1.344,0.461,0.624,0.013,0.291
+60,61,2022,Mongolia,Eastern Asia,5.84,1.379,1.494,0.244,0.425,0.058,0.239
+61,62,2022,Kyrgyzstan,Central and Eastern Europe,5.825,1.061,1.439,0.417,0.735,0.018,0.234
+62,63,2022,Moldova,Central and Eastern Europe,5.819,1.425,1.302,0.375,0.61,0.02,0.093
+63,64,2022,China,Eastern Asia,5.818,1.51,1.249,0.468,0.666,0.145,0.115
+64,65,2022,Vietnam,Southeastern Asia,5.763,1.349,1.212,0.381,0.741,0.122,0.134
+65,66,2022,Paraguay,Latin America and Caribbean,5.738,1.428,1.427,0.392,0.678,0.062,0.148
+66,67,2022,Montenegro,Central and Eastern Europe,5.722,1.537,1.385,0.424,0.563,0.061,0.17
+67,68,2022,Jamaica,Latin America and Caribbean,5.703,1.305,1.329,0.411,0.587,0.039,0.079
+68,69,2022,Bolivia,Latin America and Caribbean,5.684,1.24,1.187,0.329,0.648,0.06,0.103
+69,70,2022,Russia,Central and Eastern Europe,5.661,1.68,1.383,0.366,0.449,0.091,0.12
+70,71,2022,Bosnia and Herzegovina,Central and Eastern Europe,5.633,1.467,1.361,0.429,0.485,0.008,0.247
+71,72,2022,Colombia,Latin America and Caribbean,5.63,1.455,1.213,0.486,0.562,0.068,0.08
+72,73,2022,Dominican Republic,Latin America and Caribbean,5.569,1.536,1.227,0.351,0.623,0.195,0.083
+73,74,2022,Ecuador,Latin America and Caribbean,5.559,1.343,1.173,0.476,0.56,0.069,0.079
+74,75,2022,Peru,Latin America and Caribbean,5.526,1.39,1.153,0.499,0.549,0.027,0.073
+75,76,2022,Philippines,Southeastern Asia,5.523,1.238,1.108,0.286,0.714,0.141,0.104
+76,77,2022,Bulgaria,Central and Eastern Europe,5.466,1.635,1.457,0.408,0.557,0.013,0.106
+77,78,2022,Nepal,Southern Asia,5.36,0.979,1.027,0.281,0.567,0.104,0.215
+78,79,2022,Armenia,Central and Eastern Europe,5.342,1.466,1.134,0.443,0.551,0.16,0.053
+79,80,2022,Tajikistan,Central and Eastern Europe,5.33,0.972,1.248,0.291,0.599,0.292,0.104
+80,81,2022,Algeria,Middle East and Northern Africa,5.329,1.353,1.298,0.409,0.252,0.152,0.073
+82,83,2022,Albania,Central and Eastern Europe,5.277,1.449,0.951,0.48,0.549,0.037,0.133
+83,84,2022,Indonesia,Southeastern Asia,5.277,1.384,1.169,0.314,0.663,0.038,0.422
+84,85,2022,South Africa,Sub-Saharan Africa,5.275,1.417,1.428,0.149,0.464,0.019,0.09
+85,86,2022,Congo (Brazzaville),Sub-Saharan Africa,5.267,0.921,0.665,0.145,0.464,0.136,0.134
+87,88,2022,Venezuela,Latin America and Caribbean,5.211,0.0,1.257,0.341,0.369,0.084,0.205
+88,89,2022,Laos,Southeastern Asia,5.111,1.232,0.853,0.257,0.715,0.162,0.185
+89,90,2022,Georgia,Central and Eastern Europe,5.109,1.477,0.947,0.366,0.539,0.201,0.0
+90,91,2022,Guinea,Sub-Saharan Africa,5.072,0.844,0.776,0.072,0.369,0.102,0.204
+91,92,2022,Ukraine,Central and Eastern Europe,5.071,1.358,1.354,0.355,0.551,0.016,0.265
+92,93,2022,Ivory Coast,Sub-Saharan Africa,5.053,1.094,0.584,0.12,0.467,0.131,0.138
+93,94,2022,Gabon,Sub-Saharan Africa,5.035,1.438,1.021,0.183,0.346,0.102,0.036
+94,95,2022,Nigeria,Sub-Saharan Africa,4.981,1.065,1.007,0.092,0.448,0.013,0.176
+95,96,2022,Cameroon,Sub-Saharan Africa,4.973,0.965,0.871,0.118,0.405,0.059,0.144
+96,97,2022,Mozambique,Sub-Saharan Africa,4.954,0.57,0.885,0.0,0.625,0.192,0.161
+97,98,2022,Iraq,Middle East and Northern Africa,4.941,1.281,0.953,0.324,0.351,0.038,0.134
+99,100,2022,Morocco,Middle East and Northern Africa,4.903,1.236,0.535,0.337,0.54,0.085,0.013
+100,101,2022,Iran,Middle East and Northern Africa,4.876,1.465,1.102,0.411,0.281,0.13,0.229
+101,102,2022,Senegal,Sub-Saharan Africa,4.855,0.943,0.727,0.231,0.519,0.06,0.142
+102,103,2022,Mauritania,Sub-Saharan Africa,4.724,1.099,0.764,0.244,0.32,0.195,0.13
+103,104,2022,Burkina Faso,Sub-Saharan Africa,4.638,0.768,0.814,0.107,0.419,0.113,0.188
+104,105,2022,Namibia,Sub-Saharan Africa,4.631,1.289,1.126,0.145,0.383,0.071,0.069
+106,107,2022,Ghana,Sub-Saharan Africa,4.605,1.101,0.756,0.197,0.526,0.035,0.211
+107,108,2022,Pakistan,Southern Asia,4.555,1.081,0.657,0.158,0.511,0.102,0.141
+108,109,2022,Niger,Sub-Saharan Africa,4.501,0.561,0.628,0.137,0.54,0.14,0.154
+109,110,2022,Tunisia,Middle East and Northern Africa,4.497,1.333,0.981,0.422,0.259,0.016,0.022
+110,111,2022,Kenya,Sub-Saharan Africa,4.487,1.051,0.881,0.19,0.418,0.055,0.291
+111,112,2022,Sri Lanka,Southern Asia,4.442,1.422,1.224,0.426,0.539,0.086,0.12
+112,113,2022,Uganda,Sub-Saharan Africa,4.432,0.785,1.144,0.201,0.425,0.051,0.197
+113,114,2022,Chad,Sub-Saharan Africa,4.397,0.622,0.962,0.043,0.393,0.088,0.255
+114,115,2022,Cambodia,Southeastern Asia,4.393,1.025,1.024,0.283,0.768,0.051,0.176
+115,116,2022,Benin,Sub-Saharan Africa,4.374,0.924,0.242,0.124,0.481,0.253,0.114
+116,117,2022,Myanmar,Southeastern Asia,4.372,1.032,1.125,0.269,0.46,0.194,0.4
+117,118,2022,Bangladesh,Southern Asia,4.282,1.133,0.513,0.355,0.617,0.165,0.139
+118,119,2022,Gambia,Sub-Saharan Africa,4.279,0.761,0.614,0.174,0.286,0.033,0.332
+119,120,2022,Mali,Sub-Saharan Africa,4.198,0.763,0.637,0.106,0.441,0.059,0.121
+120,121,2022,Egypt,Middle East and Northern Africa,4.17,1.377,0.972,0.326,0.467,0.25,0.038
+121,122,2022,Togo,Sub-Saharan Africa,4.137,0.77,0.642,0.161,0.367,0.136,0.149
+122,123,2022,Jordan,Middle East and Northern Africa,4.12,1.292,0.98,0.438,0.517,0.173,0.056
+123,124,2022,Ethiopia,Sub-Saharan Africa,4.091,0.793,1.114,0.25,0.451,0.101,0.283
+124,125,2022,Liberia,Sub-Saharan Africa,4.042,0.628,0.644,0.141,0.471,0.071,0.219
+125,126,2022,India,Southern Asia,4.036,1.159,0.674,0.252,0.685,0.111,0.175
+126,127,2022,Madagascar,Sub-Saharan Africa,4.019,0.632,0.779,0.178,0.187,0.134,0.177
+127,128,2022,Zambia,Sub-Saharan Africa,3.982,0.914,0.89,0.095,0.545,0.08,0.189
+128,129,2022,Tanzania,Sub-Saharan Africa,3.694,0.836,0.787,0.214,0.607,0.269,0.234
+129,130,2022,Comoros,Sub-Saharan Africa,3.545,0.914,0.327,0.215,0.117,0.145,0.129
+130,131,2022,Malawi,Sub-Saharan Africa,3.495,0.637,0.479,0.189,0.49,0.129,0.139
+131,132,2022,Botswana,Sub-Saharan Africa,3.435,1.471,1.041,0.087,0.48,0.071,0.021
+132,133,2022,Congo (Kinshasa),Sub-Saharan Africa,3.207,0.531,0.784,0.105,0.375,0.068,0.183
+133,134,2022,Zimbabwe,Sub-Saharan Africa,3.204,0.758,0.881,0.069,0.363,0.117,0.112
+134,135,2022,Sierra Leone,Sub-Saharan Africa,3.138,0.67,0.54,0.092,0.371,0.051,0.193
+135,136,2022,Lebanon,Middle East and Northern Africa,2.392,1.417,0.476,0.398,0.123,0.027,0.061
+136,137,2022,Afghanistan,Southern Asia,1.859,0.645,0.0,0.087,0.0,0.059,0.093
